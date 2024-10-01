@@ -3,7 +3,7 @@ info:
   title: Jobs-API
   version: 1.0.0
 servers:
-  - url: https://jobs-api-bdts.onrender.com
+  - url: https://jobs-api-bdts.onrender.com/api/v1
 components:
   securitySchemes:
     bearerAuth:
